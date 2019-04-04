@@ -11,7 +11,7 @@ plots the resulting downwind concentrations.
 ## About the Gaussian model
 Please see the following paper for a detailed description of the plume analysis method used in
 this code.
-_link to final report_
+https://www.overleaf.com/read/hkcdkkfzdnsh
 
 
 ## How to use this code
